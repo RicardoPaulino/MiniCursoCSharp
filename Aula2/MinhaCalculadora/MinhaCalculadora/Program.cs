@@ -15,10 +15,7 @@ namespace MinhaCalculadora
             var funcao = a + b;
             return funcao;
         }
-        public static int Subtracao(int a, int b)
-        {
-            return;
-        }
+        // Fazer um método para Subtracao
 
     }
 }

@@ -1,0 +1,8 @@
+C:\MiniCursoCSharp\MiniCursoCSharp\Aula3\Aula3\bin\Debug\Aula3.exe.config
+C:\MiniCursoCSharp\MiniCursoCSharp\Aula3\Aula3\bin\Debug\Aula3.exe
+C:\MiniCursoCSharp\MiniCursoCSharp\Aula3\Aula3\bin\Debug\Aula3.pdb
+C:\MiniCursoCSharp\MiniCursoCSharp\Aula3\Aula3\obj\Debug\Aula3.csproj.AssemblyReference.cache
+C:\MiniCursoCSharp\MiniCursoCSharp\Aula3\Aula3\obj\Debug\Aula3.csproj.SuggestedBindingRedirects.cache
+C:\MiniCursoCSharp\MiniCursoCSharp\Aula3\Aula3\obj\Debug\Aula3.csproj.CoreCompileInputs.cache
+C:\MiniCursoCSharp\MiniCursoCSharp\Aula3\Aula3\obj\Debug\Aula3.exe
+C:\MiniCursoCSharp\MiniCursoCSharp\Aula3\Aula3\obj\Debug\Aula3.pdb
