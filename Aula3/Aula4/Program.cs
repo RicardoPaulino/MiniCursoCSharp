@@ -6,8 +6,12 @@ namespace Aula4
     {
         static void Main(string[] gabriel)
         {
-            var binario = ConverterDecimalParaBinario(1240);
-            Console.WriteLine("Binário de 1240 é: " + binario);
+            Console.WriteLine("Digite uma valor decimal para conversão em binário.");
+            int nBinario = int.Parse(Console.ReadLine());
+
+            var binario = ConverterDecimalParaBinario(nBinario);
+            Console.WriteLine($"Binário de {nBinario} é: {binario} ");
+
             Console.ReadKey();
         }
 
@@ -25,6 +29,7 @@ namespace Aula4
             }
             return binario;
         }
+
     }
 }
 
