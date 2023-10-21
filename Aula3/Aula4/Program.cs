@@ -19,9 +19,9 @@ namespace Aula4
 
             while (n > 0)
             {
-                int resto = n % 8;
+                int resto = n % 2;
                 binario = resto + binario;
-                n = n / 8;
+                n = n / 2;
             }
             return binario;
         }
