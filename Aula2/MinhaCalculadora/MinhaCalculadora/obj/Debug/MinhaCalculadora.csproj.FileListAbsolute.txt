@@ -1,8 +1,0 @@
-C:\MiniCursoCSharp\MiniCursoCSharp\Aula2\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe.config
-C:\MiniCursoCSharp\MiniCursoCSharp\Aula2\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe
-C:\MiniCursoCSharp\MiniCursoCSharp\Aula2\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.pdb
-C:\MiniCursoCSharp\MiniCursoCSharp\Aula2\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.AssemblyReference.cache
-C:\MiniCursoCSharp\MiniCursoCSharp\Aula2\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.SuggestedBindingRedirects.cache
-C:\MiniCursoCSharp\MiniCursoCSharp\Aula2\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.CoreCompileInputs.cache
-C:\MiniCursoCSharp\MiniCursoCSharp\Aula2\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.exe
-C:\MiniCursoCSharp\MiniCursoCSharp\Aula2\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.pdb
